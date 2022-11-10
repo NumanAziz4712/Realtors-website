@@ -51,7 +51,7 @@ const Footer = () => {
             href={
               "http://my-portfolio-three-rose.vercel.app/"
             }
-            className='underline hover:text-slate-200 '
+            className='underline hover:underline-none hover:text-slate-200 '
           >
             Numan Aziz
           </a>
